@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686199616171",
+    "project_id": "delivery-app-si2",
+    "storage_bucket": "delivery-app-si2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686199616171:android:c50d65f66e1fe0d51f3dee",
+        "android_client_info": {
+          "package_name": "com.take.flutter_deliberysi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686199616171-q5506cb6n4itnfh96hqfmadq1eriofv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.take.flutter_deliberysi2",
+            "certificate_hash": "c2ddb83d74fece8786ae80749ecc8ed98b523551"
+          }
+        },
+        {
+          "client_id": "686199616171-25to7a3jn1a02abnass2if0ss0nu7o6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwy1suCDpNyv6PuU6qT2-xwYtfvNRN0Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686199616171-25to7a3jn1a02abnass2if0ss0nu7o6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

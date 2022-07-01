@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:flutter_deliberysi2/src/login/login_controller.dart';
+import 'package:flutter_deliberysi2/src/pages/login/login_controller.dart';
+
 import 'package:flutter_deliberysi2/src/utils/my_colors.dart';
 import 'package:lottie/lottie.dart';//importar en todas las clases
 
